@@ -1,0 +1,154 @@
+[[Qt5QuickControls]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8f7f52900e8436e1e4e56745a9df2c853a22939a"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5QuickControls.download]]
+    sha256 = "795a1949f0ac9018089e0a6e32b9fc27c05edd60dde9d0fdf56ef3d626c3fa5a"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls_jll.jl/releases/download/Qt5QuickControls-v5.15.2+0/Qt5QuickControls.v5.15.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[Qt5QuickControls]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e49ea25e80025008c793a2e3a32dc173a58d7bd4"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5QuickControls.download]]
+    sha256 = "e15cd879bd215e50f9bd1eff7ba9a845dd8b02492997b8e438796d92451535f2"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls_jll.jl/releases/download/Qt5QuickControls-v5.15.2+0/Qt5QuickControls.v5.15.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[Qt5QuickControls]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4367b7e18dbf737976d0ba5470e3e816a9ee361f"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5QuickControls.download]]
+    sha256 = "1c3e8e68fdeecfc4b73a4747ff083870da37b3621dc10b3b57dc57a8fe13bda2"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls_jll.jl/releases/download/Qt5QuickControls-v5.15.2+0/Qt5QuickControls.v5.15.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Qt5QuickControls]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a6878a3b210e707209dd5377c26530e11e758903"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5QuickControls.download]]
+    sha256 = "8e52b58fcfed943951ec484a389393f2f22409d4f6dcb5b7b546c6e1f9658c46"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls_jll.jl/releases/download/Qt5QuickControls-v5.15.2+0/Qt5QuickControls.v5.15.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Qt5QuickControls]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "75c2760125cb5014a37739a86c2ea954d1a50295"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5QuickControls.download]]
+    sha256 = "004b5e81b5443a10efa03cfdd59fdcf7c04e1b0c3fc90f24746f04979fbc5653"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls_jll.jl/releases/download/Qt5QuickControls-v5.15.2+0/Qt5QuickControls.v5.15.2.i686-linux-gnu-cxx03.tar.gz"
+[[Qt5QuickControls]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1423d862eddbaf40631468525bb3660fc9d371a4"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5QuickControls.download]]
+    sha256 = "0dce890a380766cbf1d1d4aeb592a0e643ffa892066e08ed1fbb6fea312d49e3"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls_jll.jl/releases/download/Qt5QuickControls-v5.15.2+0/Qt5QuickControls.v5.15.2.i686-linux-gnu-cxx11.tar.gz"
+[[Qt5QuickControls]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "180a1f4c942cf302b3b02d73b085fa6e9e3e3379"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5QuickControls.download]]
+    sha256 = "a7c7e3cc75b5c2a3bad0d23152c7dc22882a1b016f7000dffa06b262a11b32cb"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls_jll.jl/releases/download/Qt5QuickControls-v5.15.2+0/Qt5QuickControls.v5.15.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Qt5QuickControls]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cba97a1e4b7c578bfc833381b3e9c14bf78b944f"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5QuickControls.download]]
+    sha256 = "380c31c8a8b7b82e60d7355df6e4c0103d84af92798a7f3b0a28e0f2662596d5"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls_jll.jl/releases/download/Qt5QuickControls-v5.15.2+0/Qt5QuickControls.v5.15.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Qt5QuickControls]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8300030df47d623e182829e514e7376136c289ba"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5QuickControls.download]]
+    sha256 = "e1f89404bcbfb7c7780890e0eba7df7f97f066782011946338f36c9bb1c3c7c3"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls_jll.jl/releases/download/Qt5QuickControls-v5.15.2+0/Qt5QuickControls.v5.15.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[Qt5QuickControls]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2c344bd1c54d961a43ff3304e001106a6e56ae13"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5QuickControls.download]]
+    sha256 = "790d2b8f86b9a987d9a61896dc4f2207b86a296add3f38a215b8ed5a97a1e5d1"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls_jll.jl/releases/download/Qt5QuickControls-v5.15.2+0/Qt5QuickControls.v5.15.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[Qt5QuickControls]]
+arch = "x86_64"
+git-tree-sha1 = "e555500d0901441b7db7f0cc7d6ae4285056ff2b"
+os = "freebsd"
+
+    [[Qt5QuickControls.download]]
+    sha256 = "07b5258d1012ab7a54c8b894d56ce01bb395210f5c2065b2151bc6653c284b2b"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls_jll.jl/releases/download/Qt5QuickControls-v5.15.2+0/Qt5QuickControls.v5.15.2.x86_64-unknown-freebsd.tar.gz"
+[[Qt5QuickControls]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c011723eb5264c723d55ddd02ee8d461400841f4"
+os = "windows"
+
+    [[Qt5QuickControls.download]]
+    sha256 = "86553540ca1245a88b0417cd12aff63c885b1e15fc8c0a198a87b052a23b89bb"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls_jll.jl/releases/download/Qt5QuickControls-v5.15.2+0/Qt5QuickControls.v5.15.2.i686-w64-mingw32-cxx03.tar.gz"
+[[Qt5QuickControls]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "39d679e4e9ceb3d123acb0b9b99d770a9deb8d18"
+os = "windows"
+
+    [[Qt5QuickControls.download]]
+    sha256 = "c181f68c225b884edae469acffac745c33c4d373e9a2c0677913bffe7e2c1634"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls_jll.jl/releases/download/Qt5QuickControls-v5.15.2+0/Qt5QuickControls.v5.15.2.i686-w64-mingw32-cxx11.tar.gz"
+[[Qt5QuickControls]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "73c641515bfc530a227fe6b187d1bbd727c5ee3f"
+os = "windows"
+
+    [[Qt5QuickControls.download]]
+    sha256 = "0d2f70bdf5a155563e0e7cb2b6967a29e62ed0d9e6b70078c0aba2d3edb9c3dd"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls_jll.jl/releases/download/Qt5QuickControls-v5.15.2+0/Qt5QuickControls.v5.15.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Qt5QuickControls]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "add1bde5fe01a2ffdb80a0977fc3f6505df530f3"
+os = "windows"
+
+    [[Qt5QuickControls.download]]
+    sha256 = "a86520a005cffd9cdb8c727d13ec4e1bc4c88f0cfcd5edff60861cf7ef4ccf3f"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls_jll.jl/releases/download/Qt5QuickControls-v5.15.2+0/Qt5QuickControls.v5.15.2.x86_64-w64-mingw32-cxx11.tar.gz"
+[[Qt5QuickControls]]
+arch = "x86_64"
+git-tree-sha1 = "aad4f89f398da59418f7e90d2479a31acc98511d"
+os = "macos"
+
+    [[Qt5QuickControls.download]]
+    sha256 = "dfafc8e97b98acdbc71759f5ea124dccba945be804ae5962cbc774c7591de354"
+    url = "https://github.com/JuliaBinaryWrappers/Qt5QuickControls_jll.jl/releases/download/Qt5QuickControls-v5.15.2+0/Qt5QuickControls.v5.15.2.x86_64-apple-darwin.tar.gz"
